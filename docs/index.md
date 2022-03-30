@@ -91,7 +91,5 @@ __Full-time Missionary in French Polynesia__, The Church of Jesus Christ of Latt
 - Led weekly meetings to improve efficiencies among ongoing and upcoming projects
 - Supervised 18 volunteers providing various manual service projects, English classes, and other types of service to people of a different language and culture
 
-If you have space at the bottom you should add your skills like excel or python. 
-
 <!-- ### Footer
 Last updated: May 2013 -->
